@@ -1,17 +1,11 @@
 # Dahel_World_Football_Analysis_Internship
 Dahel Consultant and Techies Internship: This is a project that entails the analysis of the world football game
-(*The picture below is gotten from  Website*). 
-
-
-![image](https://github.com/RemedyData/Dahel_World_Football_Analysis_Internship/assets/137626163/86cbbd54-e2dd-4314-82f7-0e9787c787b0)
-My Country? EUROPE
-
-
+(*The picture below is gotten from Architectural Digest India Website*). 
 
 
 
 ![image](https://github.com/RemedyData/Dahel_World_Football_Analysis_Internship/assets/137626163/3d6f1824-a25a-4cf1-9886-9e72d907d7be)
-Architectural Digest India
+
 
 
 ***Disclaimer:*** This is not a real company as we know this is a dataset compiled by Dahel Consultant Techies for Internship purposes. 
