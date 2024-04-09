@@ -107,7 +107,7 @@ The dashboard conveys information about the following key areas:
 
 ## Analysis
 
-Summary of the insights gained into the chess Game performance: 
+Summary of the insights gained into the world football performance: 
 
 - Egypt excels with the highest away team wins at 8 points, while a closely competitive
 group including Argentina, Angola, Botswana, Cameroon, Colombia, Guinea, Ivory Coast,
